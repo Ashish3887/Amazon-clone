@@ -98,7 +98,7 @@
     color :#0f1111;
 
 }
-/* box4 */
+
     span{
     font-size: 0.7rem;
 }
@@ -107,7 +107,7 @@
     font-weight:700px;
 }
 
-/* box5*/
+
 .nav-cart i{
     font-size: 35px;
 
@@ -118,7 +118,7 @@
 
 }
 
-/* panel */
+
 .panel{
     height:40px;
     background-color:#222f3d;
@@ -173,7 +173,7 @@
     color:#007185;
 
 }
-/* shop setion */
+
 .shop-section{
     display:flex;
     justify-content: space-evenly;
@@ -181,7 +181,7 @@
 }
 
 .box{
-    /* border:2px solid black; */
+   
     height: 400px;
     width:23%;
     background-color:white;
